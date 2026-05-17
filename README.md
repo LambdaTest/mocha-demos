@@ -7,12 +7,17 @@
 
 ## Getting Started
 
-TestMu AI is the world's first fully autonomous Agentic AI Quality Engineering Platform, enabling you to run your Mocha tests at scale with intelligent automation, real-time insights, and seamless CI/CD integration.
+[TestMu AI](https://www.testmuai.com/) (Formerly LambdaTest) is the world's first full-stack AI Agentic Quality Engineering platform that empowers teams to test intelligently, smarter, and ship faster. Built for scale, it offers a full-stack testing cloud with 10K+ real devices and 3,000+ browsers. With AI-native test management, MCP servers, and agent-based automation, TestMu AI supports Selenium, Appium, Playwright, and all major frameworks.
 
-Run Mocha tests on TestMu AI (Formerly LambdaTest) with full support for Node.js projects.
+With TestMu AI (Formerly LambdaTest), you can run Mocha Tests across real browsers and operating systems.
 
 - [Sign up on TestMu AI](https://www.testmuai.com/register/) (Formerly LambdaTest).
 - Follow the [TestMu AI Documentation](https://www.testmuai.com/support/docs/) for the full setup walkthrough.
+
+### Prerequisites
+
+- Node.js and npm (latest stable)
+- A TestMu AI (Formerly LambdaTest) account with your username and access key
 
 ## Running locally
 
