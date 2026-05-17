@@ -19,6 +19,11 @@ With TestMu AI (Formerly LambdaTest), you can run Mocha Tests across real browse
 - Node.js and npm (latest stable)
 - A TestMu AI (Formerly LambdaTest) account with your username and access key
 
+### Prerequisites
+
+- Node.js and npm (latest stable)
+- A TestMu AI (Formerly LambdaTest) account with your username and access key
+
 ## Running locally
 
 Run the following commands to setup the repository locally.
